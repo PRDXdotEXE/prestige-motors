@@ -1,0 +1,7 @@
+{
+  "name": "Prestige Motors - Car Dealership",
+  "description": "Modern automotive dealership showroom and inventory featuring luxury, sports, and electric vehicles with test drive scheduling and inquiry management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
